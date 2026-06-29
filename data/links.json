@@ -4,7 +4,7 @@
   "category": "AI / 编程",
   "audience": "学生、研究生、开发者、开源维护者",
   "hero_url": "https://github.com/openai/codex",
-  "summary": "把 Codex、Claude Code、Gemini CLI、Cursor、Cline、Aider、Continue 等工具按工作流重新分类，帮助中文用户快速判断该装什么、该避开什么。",
+  "summary": "按工作流整理 Codex、Claude Code、Gemini CLI、Cursor、Cline、Aider、Continue 等 AI 编程工具，帮助中文用户快速比较工具定位、适用场景和风险点。",
   "why_hot": "AI coding 工具正在从补全走向 agent，中文资料常常只讲情绪不讲选型，这类页面很适合被搜索和收藏。",
   "entries": [
     [
@@ -25,7 +25,7 @@
     [
       "Cursor",
       "https://cursor.com/",
-      "AI-first editor，适合想要开箱即用 IDE 体验的人。"
+      "AI-first editor，适合需要完整 IDE 体验的用户。"
     ],
     [
       "Cline",
@@ -54,7 +54,7 @@
     "确认成本和权限后再交给它改大仓库。"
   ],
   "pitfalls": [
-    "不要把生产密钥交给 agent。",
-    "不要只看 star，要看是否适合你的编辑器和模型生态。"
+    "避免向 agent 暴露生产密钥。",
+    "评估工具时同时关注编辑器适配、模型生态、权限边界和维护状态。"
   ]
 }
