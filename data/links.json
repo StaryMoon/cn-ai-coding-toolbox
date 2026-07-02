@@ -46,6 +46,26 @@
       "Qwen Code",
       "https://github.com/QwenLM/qwen-code",
       "Qwen 生态终端 coding agent，中文用户值得关注。"
+    ],
+    [
+      "OpenHands",
+      "https://github.com/All-Hands-AI/OpenHands",
+      "开源软件开发 agent，适合观察端到端任务执行。"
+    ],
+    [
+      "Tabby",
+      "https://github.com/TabbyML/tabby",
+      "自托管代码补全和团队代码助手。"
+    ],
+    [
+      "Windsurf",
+      "https://windsurf.com/",
+      "AI IDE，适合对比 Cursor 类产品体验。"
+    ],
+    [
+      "Zed AI",
+      "https://zed.dev/ai",
+      "高速编辑器内置 AI 工作流。"
     ]
   ],
   "quick_start": [
